@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @1ROCKSTAR1
-- 👀 I’m interested in motorcycles, sports, guitars, fantasy etc..
+- 👀 I’m interested in simple coding, motorcycles, sports, guitars, fantasy etc..
 - 🌱 I’m currently learning Java, Testing
 - 💞️ I’m looking to collaborate on co-writing auto tests
 - 📫 How to reach me ...
