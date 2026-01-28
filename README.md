@@ -24,6 +24,7 @@
 <img src="https://github.com/1ROCKSTAR1/source/blob/main/icons/appium.png" width="56" height="52">
 <img src="https://github.com/1ROCKSTAR1/source/blob/main/icons/browserstack.png" width="56" height="52">
 <img src="https://github.com/1ROCKSTAR1/source/blob/main/icons/Jira.svg" width="56" height="56">
+<img src="https://github.com/1ROCKSTAR1/source/blob/main/icons/telegram.png" width="56" height="56">
 
 </div>
 
