@@ -22,6 +22,7 @@
 <img src="https://github.com/1ROCKSTAR1/source/blob/main/icons/Jenkins.svg" width="56" height="56">
 <img src="https://github.com/1ROCKSTAR1/source/blob/main/icons/studio.jpg" width="82" height="95">
 <img src="https://github.com/1ROCKSTAR1/source/blob/main/icons/appium.png" width="56" height="52">
+<img src="https://github.com/1ROCKSTAR1/source/blob/main/icons/browserstack.png" width="56" height="52">
 
 </div>
 
