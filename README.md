@@ -34,7 +34,7 @@
 
 | Logo | Name | Purpose |
 | :---: | :---: | :--- |
-| <a href="https://www.java.com"><img src="https://github.com/1ROCKSTAR1/source/blob/main/icons/Java.svg" width="64" height="64" alt="Java"/></a> | `Java` | Programming language for writing tests |
+| <a href="https://www.java.com"><img src="https://github.com/1ROCKSTAR1/source/blob/main/icons/Java.svg" width="64" height="64" alt="Java"/></a> | `Java` | Programming language |
 | <a href="https://maven.apache.org"><img src="https://github.com/1ROCKSTAR1/source/blob/main/icons/maven.png" width="64" height="62" alt="Maven"/></a> | `Maven` | Build automation and dependency management tool |
 | <a href="https://gradle.org"><img src="https://github.com/1ROCKSTAR1/source/blob/main/icons/Gradle.svg" width="64" height="64" alt="Gradle"/></a> | `Gradle` | Build automation system |
 | <a href="https://testng.org"><img src="https://github.com/1ROCKSTAR1/source/blob/main/icons/testNG.png" width="110" height="64" alt="TestNG"/></a> | `TestNG` | Testing framework inspired by JUnit |
